@@ -12,13 +12,13 @@
     "showBannerMenu": false,
     "showBannerPlay": false,
     "requireInternetToPlay": false,
-    "showNewGames": false,
+    "showNewGames": true,
     "newGames": [
         {
-            "name": "",
-            "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.retro.nostalgia.nes/master/noti.jpg",
-            "downloadUrl": "market://details?id=nes.retro.nostalgia",
-            "countryCode": ""
+            "name": "NES Classic Edition",
+            "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/retro.games.nostalgia.games/main/nes.png",
+            "downloadUrl": "https://amzn.to/3g1eQY4",
+            "countryCode": "vn"
         }
     ]
 }
