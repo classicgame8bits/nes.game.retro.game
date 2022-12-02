@@ -12,7 +12,7 @@
     "showBannerMenu": false,
     "showBannerPlay": false,
     "requireInternetToPlay": false,
-    "showNewGames": true,
+    "showNewGames": false,
     "newGames": [
         {
             "name": "NES Classic Edition",
